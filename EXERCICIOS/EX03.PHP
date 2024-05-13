@@ -22,7 +22,6 @@
 		<select name="sexo" id="sexo">
 			<option value="M">Masculino</option>
 			<option value="F">Feminino</option>
-			<option value="C">Chevrolet Corsa, modelo LTZ subcompacto, motor 1.4L com 4 cilindros, 100 cavalos de potência, transmissão manual de 5 marchas</option>
 		</select><br/>
 
 		<!-- Recebe do usuário a idade -->
